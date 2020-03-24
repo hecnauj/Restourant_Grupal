@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Neira_7" />
+        <module name="Restourant_Grupal" />
       </profile>
     </annotationProcessing>
   </component>
