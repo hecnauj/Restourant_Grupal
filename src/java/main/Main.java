@@ -1,17 +1,12 @@
 package main;
-import interaccionUsuario.Menu;
-import interaccionUsuario.Ventana;
-
+import interaccionUsuario.Inicio;
 import javax.swing.*;
-import java.awt.*;
 
 public class Main{
+	JFrame frame = new JFrame("Inicio");
 
 	public static void main(String[] aArgs) {
-		Ventana v1 = new Ventana();
-		v1.iniciar_Vista_Mesas();
-		Menu m = new Menu();
-		m.desplegarMenu();
-
+		Inicio vl = new Inicio();
+		vl.inicio();
 	}
 }

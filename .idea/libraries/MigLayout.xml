@@ -3,14 +3,24 @@
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/lib/miglayout-swing.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/miglayout-core.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/jgoodies-common-1.8.1" />
+      <root url="file://$USER_HOME$/Desktop/jgoodies-forms-1.8.0" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/lib/miglayout-swing-javadoc.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/miglayout-core-javadoc.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/jgoodies-common-1.8.1/docs/api" />
+      <root url="file://$USER_HOME$/Desktop/jgoodies-forms-1.8.0/docs/api" />
     </JAVADOC>
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/lib/miglayout-swing-sources.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/miglayout-core-sources.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/jgoodies-common-1.8.1" />
+      <root url="file://$USER_HOME$/Desktop/jgoodies-forms-1.8.0" />
     </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/jgoodies-common-1.8.1" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/jgoodies-forms-1.8.0" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/jgoodies-common-1.8.1" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/jgoodies-forms-1.8.0" recursive="false" type="SOURCES" />
   </library>
 </component>
